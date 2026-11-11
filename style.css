@@ -152,15 +152,18 @@ body {
 .testimony {
   /* display: flex; */
   /* border: 1px solid var(--neutralBlack); */
-  padding: 5%;
+  padding: 5% 7.5%;
   border-radius: 5px;
   box-shadow: 0.75rem 1rem 1rem var(--neutralGrey2);
 }
 p {
   margin: 10px;
+  font-weight: 500;
+  line-height: 20px;
 }
 h2 {
   margin: 10px;
+  font-weight: 600;
 }
 
 /* testimony top section */
